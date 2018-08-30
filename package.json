@@ -1,0 +1,25 @@
+{
+  "name": "costcontrol_oauth2_server",
+  "version": "1.0.0",
+  "description": "Oauth2 Server for testing Cost Control API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natapone/costcontrol_oauth2_server.git"
+  },
+  "keywords": [
+    "Oauth2"
+  ],
+  "author": "Dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natapone/costcontrol_oauth2_server/issues"
+  },
+  "homepage": "https://github.com/natapone/costcontrol_oauth2_server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
